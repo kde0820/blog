@@ -21,6 +21,8 @@ gem 'uglifier', '>= 1.3.0'
 
 #gem 'rspec-rails', '~> 3.5', '>= 3.5.2'
 
+gem 'record_tag_helper', '~> 1.0'
+
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
 gem 'coffee-script-source', '1.8.0'
